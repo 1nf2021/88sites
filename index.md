@@ -1,8 +1,5 @@
 <html>
 <head>
-<title>
-88Sites
-</title>
 <link rel="shortcut icon" href="img/favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet'>
 <style>
@@ -15,6 +12,9 @@ img {
     margin: auto;
 }
 </style>
+<title>
+88Sites
+</title>
 </head>
 <body>
 
