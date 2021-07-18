@@ -5,6 +5,16 @@
 </title>
 <link rel="shortcut icon" href="img/favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet'>
+<style>
+img {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+</style>
 </head>
 <body>
 
